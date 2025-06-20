@@ -21,8 +21,8 @@
         </div>
         
     <div class="col-sm-6 text-black vh-100 d-flex flex-column justify-content-center align-items-center">
-    <div class="card px-5 py-3 shadow-lg rounded-8" style="width: 35rem;">
-        <div class="card-body">
+    <div class="card px-5 py-3 shadow-lg rounded-8 responsive-card mx-auto">
+        <div class="card-body card-body-responsive">
             <div class="text-center mb-4">
                 <img src="{{ asset('images/LOGO-PMI-png-1 2.png') }}" alt="Login Logo" class="img-fluid">
             </div>

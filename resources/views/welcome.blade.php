@@ -38,7 +38,6 @@
                     <button data-mdb-button-init data-mdb-ripple-init class="btn btn-lg" type="button" style="background-color: #ED1B24; border-color: #ED1B24; color: #FFFFFF;;">Masuk</button>
                 </div>
 
-                <p class="small mb-2 text-center"><a class="text-muted" href="#!">Forgot password?</a></p>
             </form>
         </div>
     </div>            
